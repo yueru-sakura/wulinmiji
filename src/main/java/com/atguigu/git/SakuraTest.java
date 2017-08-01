@@ -6,7 +6,6 @@ public class SakuraTest {
 		System.out.println("edited by sakura");
 		System.out.println("edited by sakura two");
 		System.out.println("edited by mylove");
-		System.out.println("edited by sakura three");
 	}
 
 }
