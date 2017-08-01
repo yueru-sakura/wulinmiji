@@ -8,6 +8,7 @@ public class SakuraTest {
 		System.out.println("edited by mylove");
 		System.out.println("edited by castle first");
 		System.out.println("####################");
+		System.out.println("@@@@@@@@@@@@@@@@@");
 	}
 
 }
